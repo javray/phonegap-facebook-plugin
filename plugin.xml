@@ -77,11 +77,11 @@
         <source-file src="src/ios/FacebookConnectPlugin.m" />
 
         <config-file target="*-Info.plist" parent="FacebookAppID">
-            <string>$APP_ID</string>
+            <string>259164324240266</string>
         </config-file>
         
         <config-file target="*-Info.plist" parent="FacebookDisplayName">
-            <string>$APP_NAME</string>
+            <string>ComplementosTabu</string>
         </config-file>
         
         <config-file target="*-Info.plist" parent="CFBundleURLTypes">
@@ -89,7 +89,7 @@
             <dict>
               <key>CFBundleURLSchemes</key>
               <array>
-                <string>fb$APP_ID</string>
+                <string>fb259164324240266</string>
               </array>
             </dict>
           </array>
