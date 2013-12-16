@@ -29,9 +29,6 @@
       <access origin="https://*.akamaihd.net" />
     </config-file>
     
-    <preference name="APP_ID" />
-	  <preference name="APP_NAME" />
-    
     <engines>
       <engine name="cordova" version=">=2.3.0" />
     </engines>
